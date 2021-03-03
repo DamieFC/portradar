@@ -13,4 +13,4 @@ _____|-|_____           a
 |    |  |   |
 |____|__|___|
 ```
-This is a draft port scanner I'm going to do. Eventually. When I have time. So eventually.
+This is a draft port scanner I'm kinda sorta working on.
